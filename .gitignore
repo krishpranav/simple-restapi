@@ -5,3 +5,6 @@
 # ide cache
 .vscode/
 .idea/
+
+target/
+targetvb6WIw/
